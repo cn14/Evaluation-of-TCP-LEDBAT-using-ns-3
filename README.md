@@ -12,8 +12,6 @@ a fixed pre-defined target value.<br/>
  The threshold of a bottleneck buffer size that leads LEDBAT to revert to a minimum congestion window of only 1
 packet in the presence of TCP. That is, for some applications its throughput will be too low. In addition to the fact that intra-
 protocol unfairness among multiple LEDBAT sources may occur when using the fixed minimum LEDBAT congestion win-
-dow to improve the limited LEDBAT throughput,the average LEDBAT throughput is fixed even as the bottleneck link capacity increases as opposed to TCP throughput that increases proportionally. This therefore necessitates the needfor a dynamic minimum congestion window in the LEDBAT
-algorithm
+dow to improve the limited LEDBAT throughput,the average LEDBAT throughput is fixed even as the bottleneck link capacity increases as opposed to TCP throughput that increases proportionally. This therefore necessitates the needfor a dynamic minimum congestion window in the LEDBAT algorithm.<br/>
 
-
-
+! home/chethan/Pictures/Screenshot from 2019-11-23 15-30-10.png
