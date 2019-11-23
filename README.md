@@ -14,4 +14,4 @@ packet in the presence of TCP. That is, for some applications its throughput wil
 protocol unfairness among multiple LEDBAT sources may occur when using the fixed minimum LEDBAT congestion win-
 dow to improve the limited LEDBAT throughput,the average LEDBAT throughput is fixed even as the bottleneck link capacity increases as opposed to TCP throughput that increases proportionally. This therefore necessitates the needfor a dynamic minimum congestion window in the LEDBAT algorithm.<br/>
 
-! home/chethan/Pictures/Screenshot from 2019-11-23 15-30-10.png
+![abcd](home/chethan/Pictures/Screenshot from 2019-11-23 15-30-10.png)
